@@ -1,3 +1,5 @@
+function DARkimgsonly(){
+
 function onlyUnique(value, index, self) { 
     return self.indexOf(value) === index;
 }
@@ -32,8 +34,5 @@ function only() {
 		img.src = srcList[a];
 		document.body.appendChild(img);
 	}
-
 	return 1;
-}
-//}
-//
+}}
