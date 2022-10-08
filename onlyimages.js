@@ -35,7 +35,5 @@ function only() {
 
 	return 1;
 }
-
-only();
 //}
 //
